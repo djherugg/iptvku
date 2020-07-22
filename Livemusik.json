@@ -13,6 +13,19 @@ http://brhn.xyz/youtube/crit.php?search=24jamcampursari,live&quality=93.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mrT5Dq0w/iwj.png" group-title="DANGDUT KOPLO",TARLING
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mrT5Dq0w/iwj.png" group-title="TV INDONESIA",TV ONE
+http://brhn.xyz/youtube/crit.php?search=tvone,live&quality=94.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mrT5Dq0w/iwj.png" group-title="TV INDONESIA",KOMPAS TV
+http://brhn.xyz/youtube/crit.php?search=kompastv,live&quality=94.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mrT5Dq0w/iwj.png" group-title="TV INDONESIA",NET TV
+http://brhn.xyz/youtube/crit.php?search=nettv,live&quality=94.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mrT5Dq0w/iwj.png" group-title="TV INDONESIA",INEWS TV
+http://brhn.xyz/youtube/crit.php?search=inews,live&quality=94.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mrT5Dq0w/iwj.png" group-title="AJEB-AJEB",DJ RATRY
 http://brhn.xyz/youtube/crit.php?search=djratry,live&quality=94.m3u8
