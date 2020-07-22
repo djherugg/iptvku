@@ -13,6 +13,9 @@ http://brhn.xyz/youtube/crit.php?search=24jamcampursari,live&quality=93.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mrT5Dq0w/iwj.png" group-title="DANGDUT KOPLO",TARLING
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mrT5Dq0w/iwj.png" group-title="TV INDONESIA",JTV SURABAYA
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(da282ed9-7202-4e68-8a85-eee4f5776779)/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mrT5Dq0w/iwj.png" group-title="TV INDONESIA",TV ONE
 http://brhn.xyz/youtube/crit.php?search=tvone,live&quality=94.m3u8
 
