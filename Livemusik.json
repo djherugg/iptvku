@@ -152,8 +152,14 @@ http://brhn.xyz/youtube/crit.php?search=musica,live&quality=94.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mrT5Dq0w/iwj.png" group-title="POP INDONESIA",NAGASWARA TV
 http://brhn.xyz/youtube/crit.php?search=nagaswara,live&quality=94.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mrT5Dq0w/iwj.png" group-title="PUBG MOBILE",PUBG MOBILE WORLD LEAGUE
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1595352426/ei/CtEWX-mLFNWcvwTon5jQDw/ip/103.247.11.98/id/mRrG8wv9BWk.1/itag/94/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D135/hls_chunk_host/r1---sn-2upoxubavc5a-jb3l.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/gk/mm/44/mn/sn-2upoxubavc5a-jb3l/ms/lva/mv/u/mvi/1/pcm2cms/yes/pl/24/dover/11/keepalive/yes/fexp/23883097/beids/9466588/mt/1595330072/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIhAMOlHECyFASpWrF4QS2anpPjXyJ5ppFJKhhkgF_dVWjVAiBlOyfjTR94wIByUvwgTid_R3_nhJuq6ORlD1hg-fIONQ%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pcm2cms,pl/lsig/AG3C_xAwRgIhAP6A8RNsLliAKsTHEobwdeq9jjte9jE0tDkgco_evcvqAiEAquRmDPRmmHXOEMWQceID_IwdTrZjhpwzrSUoTLokuEE%3D/playlist/index.m3u8
+#EXTINF:-1tvg-logo="https://i.postimg.cc/mrT5Dq0w/iwj.png" group-title="DUNIA GAME",EGG
+http://210.210.155.35:80/uq2663/h/h22/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mrT5Dq0w/iwj.png" group-title="DUNIA GAME",PUBG WTF MOMENT
+http://brhn.xyz/youtube/crit.php?search=pubgwtf,live&quality=94.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mrT5Dq0w/iwj.png" group-title="DUNIA GAME",PUBG PMWL EAST
+http://brhn.xyz/youtube/crit.php?search=pmwleast,live&quality=94.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mrT5Dq0w/iwj.png" group-title="KARTUN",TOM & JERRY
 http://brhn.xyz/youtube/crit.php?search=tomjerry,live&quality=94.m3u8
