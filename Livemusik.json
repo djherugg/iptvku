@@ -25,7 +25,8 @@ http://brhn.xyz/youtube/crit.php?search=nettv,live&quality=94.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mrT5Dq0w/iwj.png" group-title="TV INDONESIA",INEWS TV
 http://brhn.xyz/youtube/crit.php?search=inews,live&quality=94.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mrT5Dq0w/iwj.png" group-title="TV INDONESIA",METRO TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mrT5Dq0w/iwj.png" group-title="AJEB-AJEB",DJ RATRY
 http://brhn.xyz/youtube/crit.php?search=djratry,live&quality=94.m3u8
