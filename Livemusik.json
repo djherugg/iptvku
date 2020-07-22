@@ -1,6 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mrT5Dq0w/iwj.png" group-title="DANGDUT KOPLO",KOPLO
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mrT5Dq0w/iwj.png" group-title="DANGDUT KOPLO",KOPLO SD
 http://brhn.xyz/youtube/crit.php?search=24jamcampursari,live&quality=94.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mrT5Dq0w/iwj.png" group-title="DANGDUT KOPLO",KOPLO HD
+http://brhn.xyz/youtube/crit.php?search=24jamcampursari,live&quality=95.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mrT5Dq0w/iwj.png" group-title="DANGDUT KOPLO",KOPLO FHD
+http://brhn.xyz/youtube/crit.php?search=24jamcampursari,live&quality=96.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mrT5Dq0w/iwj.png" group-title="DANGDUT KOPLO",KOPLO BUREK
+http://brhn.xyz/youtube/crit.php?search=24jamcampursari,live&quality=93.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mrT5Dq0w/iwj.png" group-title="DANGDUT KOPLO",TARLING
 
