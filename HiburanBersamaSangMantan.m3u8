@@ -1,21 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" group-title="CAP ORANG TUA" tvg-logo="https://i.postimg.cc/FKp4HBfB/18.jpg", BIKINI TV
+#EXTINF:-1 tvg-id="" group-title="CAP ORANG TUA" tvg-logo="https://i.postimg.cc/FKp4HBfB/18.jpg", BIKINI TV
 https://raw.githubusercontent.com/djherugg/iptvku/master/Jan/Cok/Jaran/Token/Kenthu_bikinitv.m3u8
-#EXTINF:-1 tvg-id="1" group-title="CAP ORANG TUA" tvg-logo="https://i.postimg.cc/FKp4HBfB/18.jpg", FTV MIDNIGHT
+#EXTINF:-1 tvg-id="" group-title="CAP ORANG TUA" tvg-logo="https://i.postimg.cc/FKp4HBfB/18.jpg", FTV MIDNIGHT
 https://raw.githubusercontent.com/djherugg/iptvku/master/Jan/Cok/Jaran/Token/Kenthu_ftvmidnight.m3u8
-#EXTINF:-1 tvg-id="1" group-title="CAP ORANG TUA" tvg-logo="https://i.postimg.cc/FKp4HBfB/18.jpg", JASMIN TV
-https://raw.githubusercontent.com/djherugg/iptvku/master/Jan/Cok/Jaran/Token/Kenthu_jasmin.m3u8
-#EXTINF:-1 tvg-id="1" group-title="CAP ORANG TUA" tvg-logo="https://i.postimg.cc/FKp4HBfB/18.jpg", xBUNGA-BUNGA TV
+#EXTINF:-1 tvg-id="" group-title="CAP ORANG TUA" tvg-logo="https://i.postimg.cc/FKp4HBfB/18.jpg", JASMIN TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="CAP ORANG TUA" tvg-logo="https://i.postimg.cc/FKp4HBfB/18.jpg", xBUNGA-BUNGA TV
 https://raw.githubusercontent.com/djherugg/iptvku/master/Jan/Cok/Jaran/Token/Kenthu_x_bunga_bunga.m3u8
-#EXTINF:-1 tvg-id="1" group-title="CAP ORANG TUA" tvg-logo="https://i.postimg.cc/FKp4HBfB/18.jpg", PORNSTAR TV
+#EXTINF:-1 tvg-id="" group-title="CAP ORANG TUA" tvg-logo="https://i.postimg.cc/FKp4HBfB/18.jpg", PORNSTAR TV
 https://raw.githubusercontent.com/djherugg/iptvku/master/Jan/Cok/Jaran/Token/Kenthu_pornstar.m3u8
-#EXTINF:-1 tvg-id="1" group-title="CAP ORANG TUA" tvg-logo="https://i.postimg.cc/FKp4HBfB/18.jpg", DORCEL TV
-https://raw.githubusercontent.com/djherugg/iptvku/master/Jan/Cok/Jaran/Token/Kenthu_doceltv.m3u8
-#EXTINF:-1 tvg-id="1" group-title="CAP ORANG TUA" tvg-logo="https://i.postimg.cc/FKp4HBfB/18.jpg", HUSTLER TV
-https://raw.githubusercontent.com/djherugg/iptvku/master/Jan/Cok/Jaran/Token/Kenthu_hustlerlive.m3u8
-#EXTINF:-1 tvg-id="1" group-title="CAP ORANG TUA" tvg-logo="https://i.postimg.cc/FKp4HBfB/18.jpg", JAV18+ TV
-https://raw.githubusercontent.com/djherugg/iptvku/master/Jan/Cok/Jaran/Token/Kenthu_sex_jav18.m3u8
-#EXTINF:-1 tvg-id="1" group-title="CAP ORANG TUA" tvg-logo="https://i.postimg.cc/FKp4HBfB/18.jpg", BRAZZER TV
-https://raw.githubusercontent.com/djherugg/iptvku/master/Jan/Cok/Jaran/Token/Kenthu_brazzertv.m3u8
-#EXTINF:-1 tvg-id="1" group-title="CAP ORANG TUA" tvg-logo="https://i.postimg.cc/FKp4HBfB/18.jpg", HOT TV
-https://raw.githubusercontent.com/djherugg/iptvku/master/Jan/Cok/Jaran/Token/Kenthu_HOT.m3u8
+#EXTINF:-1 tvg-id="" group-title="CAP ORANG TUA" tvg-logo="https://i.postimg.cc/FKp4HBfB/18.jpg", DORCEL TV
+http://188.35.9.11:21141/udp/214h
+#EXTINF:-1 tvg-id="" group-title="CAP ORANG TUA" tvg-logo="https://i.postimg.cc/FKp4HBfB/18.jpg", HUSTLER TV
+http://catchup.iptv.iinet.rs/playlist.m3u8?id=177&token=dG9rZW49LVkzblctbGw0RUdzSWhVWWdDUlNiUjZMbGpBbkVUNzgmaWQ9NzImc2VjcmV0PW90dA==&DVR;?streamType=live
+#EXTINF:-1 tvg-id="" group-title="CAP ORANG TUA" tvg-logo="https://i.postimg.cc/FKp4HBfB/18.jpg", JAV18+ TV
+https://717616144.r.worldssl.net/717616144/tv/ttv11/chunklist_w1523462549.m3u8
+#EXTINF:-1 tvg-id="" group-title="CAP ORANG TUA" tvg-logo="https://i.postimg.cc/FKp4HBfB/18.jpg", BRAZZER TV
+http://188.35.9.26:9031/udp/117m
+#EXTINF:-1 tvg-id="" group-title="CAP ORANG TUA" tvg-logo="https://i.postimg.cc/FKp4HBfB/18.jpg", HOT TV
+http://185.236.229.2:8000/play/a00x/index.m3u8
