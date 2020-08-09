@@ -191,3 +191,12 @@ http://210.210.155.35:80/dr9445/h/h02/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mrT5Dq0w/iwj.png" group-title="KARTUN",DISNEY JUNIOR
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mrT5Dq0w/iwj.png" group-title="FOX SPORT", FOX SPORT 1
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mrT5Dq0w/iwj.png" group-title="FOX SPORT", FOX SPORT 2
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mrT5Dq0w/iwj.png" group-title="FOX SPORT", FOX SPORT 3
+https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
